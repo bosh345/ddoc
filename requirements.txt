@@ -1,3 +1,4 @@
 Flask==2.1.2
 requests==2.27.1
 PyMuPDF==1.19.0
+https://stcpsqcjir3qehisg.file.core.windows.net/testpy2026/pymupdf-1.25.5-cp39-abi3-musllinux_1_2_x86_64.whl
